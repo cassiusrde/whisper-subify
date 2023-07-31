@@ -1,0 +1,7 @@
+requests==2.31.0
+moviepy==1.0.3
+ffmpeg-python==0.2.0
+ffprobe-python==1.0.3
+openai-whisper==20230314
+pysubs2==1.6.1
+deep-translator==1.11.4
